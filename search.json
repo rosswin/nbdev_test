@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "chip_for_dl",
+    "section": "",
+    "text": "foo\n\n foo ()\n\n\ndef say_hello(to):\n    \"Say hello to someone.\"\n    return f\"Hello {to}!\"\n\n\n\nExamples:\n\nsay_hello(\"World\")\n\n'Hello World!'\n\n\n\n\nTests:\n\nassert say_hello(\"World\") == \"Hello World!\""
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Project name here",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "Project name here",
+    "section": "Install",
+    "text": "Install\npip install your_project_name"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "Project name here",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  }
+]
